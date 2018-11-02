@@ -1,0 +1,42 @@
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\index.baml
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\index.g.cs
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\App.g.cs
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery_MarkupCompile.cache
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery.g.resources
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery.Properties.Resources.resources
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery.csproj.GenerateResource.Cache
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ForecastLottery.exe
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ForecastLottery.pdb
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.DataBaseLib.dll
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.Static.dll
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.Utility.dll
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\LitJSON.dll
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.DataBaseLib.pdb
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.Static.pdb
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\bin\Debug\ATC.Utility.pdb
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery.exe
+C:\Users\wangjw\AppData\Local\Temporary Projects\ForecastLottery\obj\Debug\ForecastLottery.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\lottery.sdf
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ForecastLottery.exe.config
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ForecastLottery.exe
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ForecastLottery.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.DataBaseLib.dll
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.Static.dll
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.Utility.dll
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\LitJSON.dll
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\MathNet.Numerics.dll
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.DataBaseLib.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.Static.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\ATC.Utility.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\bin\Debug\MathNet.Numerics.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\index.baml
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\index.g.cs
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\App.g.cs
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery_Content.g.cs
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery_MarkupCompile.cache
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.g.resources
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.Properties.Resources.resources
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.csproj.GenerateResource.Cache
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.exe
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.pdb
+D:\work\2018年工作\工作文档\自己写的项目源码\ForecastLottery\ForecastLottery\obj\Debug\ForecastLottery.csprojResolveAssemblyReference.cache

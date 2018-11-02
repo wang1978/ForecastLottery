@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="lotteryDataSet" targetNamespace="http://tempuri.org/lotteryDataSet.xsd" xmlns:mstns="http://tempuri.org/lotteryDataSet.xsd" xmlns="http://tempuri.org/lotteryDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="Database1Connectionreding" ConnectionredingObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="Database1Connectionreding (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.lottery.Properties.Settings.GlobalReference.Default.Database1Connectionreding" Provider="Microsoft.SqlServerCe.Client.4.0" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="lotteryDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="lotteryDataSet" msprop:Generator_UserDSName="lotteryDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ticket" msprop:Generator_TableClassName="ticketDataTable" msprop:Generator_TableVarName="tableticket" msprop:Generator_TablePropName="ticket" msprop:Generator_RowDeletingName="ticketRowDeleting" msprop:Generator_RowChangingName="ticketRowChanging" msprop:Generator_RowEvHandlerName="ticketRowChangeEventHandler" msprop:Generator_RowDeletedName="ticketRowDeleted" msprop:Generator_UserTableName="ticket" msprop:Generator_RowChangedName="ticketRowChanged" msprop:Generator_RowEvArgName="ticketRowChangeEvent" msprop:Generator_RowClassName="ticketRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid" msprop:Generator_ColumnPropNameInRow="id" msprop:Generator_ColumnPropNameInTable="idColumn" msprop:Generator_UserColumnName="id" type="xs:int" />
+              <xs:element name="red_num1" msprop:Generator_ColumnVarNameInTable="columnred_num1" msprop:Generator_ColumnPropNameInRow="red_num1" msprop:Generator_ColumnPropNameInTable="red_num1Column" msprop:Generator_UserColumnName="red_num1" type="xs:int" minOccurs="0" />
+              <xs:element name="red_num2" msprop:Generator_ColumnVarNameInTable="columnred_num2" msprop:Generator_ColumnPropNameInRow="red_num2" msprop:Generator_ColumnPropNameInTable="red_num2Column" msprop:Generator_UserColumnName="red_num2" type="xs:int" minOccurs="0" />
+              <xs:element name="red_num3" msprop:Generator_ColumnVarNameInTable="columnred_num3" msprop:Generator_ColumnPropNameInRow="red_num3" msprop:Generator_ColumnPropNameInTable="red_num3Column" msprop:Generator_UserColumnName="red_num3" type="xs:int" minOccurs="0" />
+              <xs:element name="red_num4" msprop:Generator_ColumnVarNameInTable="columnred_num4" msprop:Generator_ColumnPropNameInRow="red_num4" msprop:Generator_ColumnPropNameInTable="red_num4Column" msprop:Generator_UserColumnName="red_num4" type="xs:int" minOccurs="0" />
+              <xs:element name="red_num5" msprop:Generator_ColumnVarNameInTable="columnred_num5" msprop:Generator_ColumnPropNameInRow="red_num5" msprop:Generator_ColumnPropNameInTable="red_num5Column" msprop:Generator_UserColumnName="red_num5" type="xs:int" minOccurs="0" />
+              <xs:element name="red_num6" msprop:Generator_ColumnVarNameInTable="columnred_num6" msprop:Generator_ColumnPropNameInRow="red_num6" msprop:Generator_ColumnPropNameInTable="red_num6Column" msprop:Generator_UserColumnName="red_num6" type="xs:int" minOccurs="0" />
+              <xs:element name="blue_num" msprop:Generator_ColumnVarNameInTable="columnblue_num" msprop:Generator_ColumnPropNameInRow="blue_num" msprop:Generator_ColumnPropNameInTable="blue_numColumn" msprop:Generator_UserColumnName="blue_num" type="xs:reding" minOccurs="0" />
+              <xs:element name="term" msprop:Generator_ColumnVarNameInTable="columnterm" msprop:Generator_ColumnPropNameInRow="term" msprop:Generator_ColumnPropNameInTable="termColumn" msprop:Generator_UserColumnName="term" type="xs:reding" minOccurs="0" />
+              <xs:element name="opentime" msprop:Generator_ColumnVarNameInTable="columnopentime" msprop:Generator_ColumnPropNameInRow="opentime" msprop:Generator_ColumnPropNameInTable="opentimeColumn" msprop:Generator_UserColumnName="opentime" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="opentimestamp" msprop:Generator_ColumnVarNameInTable="columnopentimestamp" msprop:Generator_ColumnPropNameInRow="opentimestamp" msprop:Generator_ColumnPropNameInTable="opentimestampColumn" msprop:Generator_UserColumnName="opentimestamp" type="xs:duration" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Conredaint1">
+      <xs:selector xpath=".//mstns:ticket" />
+      <xs:field xpath="mstns:id" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
